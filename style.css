@@ -5,7 +5,7 @@
 
 body {
 	font-family: 'Caveat Brush', cursive !important;
-	background: #E7CDCE; /*CAPE HONEY*/
+	background: #FFDEE3; /*CAPE HONEY*/
 	margin: 0px;
 	padding: 0px;
 }
@@ -25,7 +25,7 @@ h4 {
 
 
 .card {
-	/* color: #013243; SHERPA BLUE */
+	/* color:rgba(71, 24, 24, 0.31); SHERPA BLUE */
 	color: #c00645; /*SHERPA BLUE*/
 	position: absolute;
 	top: 50%;
